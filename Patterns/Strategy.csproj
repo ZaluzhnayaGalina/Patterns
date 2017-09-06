@@ -47,6 +47,7 @@
     <Compile Include="InsertSort.cs" />
     <Compile Include="IPrintable.cs" />
     <Compile Include="ISortable.cs" />
+    <Compile Include="MergeSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

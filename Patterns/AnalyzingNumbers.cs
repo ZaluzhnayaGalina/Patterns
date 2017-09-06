@@ -10,7 +10,7 @@ namespace Strategy
     {
         public ISortable SortBehaviour;
         public IPrintable PrintBehaviour;
-        private static int _length=20;
+        private static int _length=50;
         private double[] array = new double[_length];
         public AnalyzingNumbers()
         {
