@@ -4,4 +4,6 @@ Patterns/obj/Debug/CoreCompileInputs.cache
 .vs
 C:\CSharp\Patterns\Patterns\obj\Debug
 /Observer/obj/*
-/Observer/obj/*
+/Observer/bin/*
+/Decorator/obj/*
+/Decorator/bin/*
