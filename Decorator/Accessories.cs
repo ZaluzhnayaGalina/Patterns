@@ -1,7 +1,5 @@
 ﻿namespace Decorator
 {
-    abstract class Accessories: Garment
-    {
-        Garment decoratee;
-    }
+    public abstract class Accessories : Garment
+    { }
 }

@@ -1,4 +1,6 @@
-﻿namespace Decorator.Clothes
+﻿using System;
+
+namespace Decorator.Clothes
 {
     class Cardigan : Garment
     {
